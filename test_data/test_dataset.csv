@@ -1,0 +1,13 @@
+Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder
+Male,44,Doctor,7.1,8,60,6,Normal,125/80,68,7500,Healthy
+Male,43,Engineer,7.75,8,90,5,Normal,130/85,70,8000,Healthy
+Female,43,Doctor,7.35,8,30,6,Normal,125/80,68,5000,Healthy
+Female,48,Accountant,7.65,8,68,4,Overweight,140/95,68,7000,Healthy
+Female,48,Accountant,6.5,7,45,6,Overweight,130/85,68,6000,Insomnia
+Female,45,Teacher,6.55,7,45,4,Overweight,135/90,65,6000,Insomnia
+Male,36,Software Engineer,6.1,5,38,8,Obese,140/90,78,4500,Insomnia
+Male,46,Doctor,6.8,6,55,6,Obese,130/85,78,4750,Insomnia
+Female,54,Nurse,7.1,8,82,6,Overweight,140/95,72,8500,Sleep Apnea
+Female,34,Teacher,7.45,8,68,5,Normal,120/80,69,7500,Sleep Apnea
+Male,43,Nurse,6.3,6,62,8,Overweight,129/84,74,7400,Sleep Apnea
+Male,44,Nurse,7,6,52,6,Overweight,140/90,76,5000,Sleep Apnea

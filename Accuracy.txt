@@ -1,0 +1,11 @@
+Sleep Disorder Prediction Using Machine Learning
+*************************************************
+
+Algorithm / Model Used: Gradient Boosting Classifier.
+Training Accuracy: 96%  and Test Accuracy: 95%
+*************************************************
+Algorithm / Model Used: Quadratic Discriminant Analysis.
+Training Accuracy: 92%  and Test Accuracy: 92%
+*************************************************
+ 
+
